@@ -1,4 +1,4 @@
-# Spotify-Playlist-Scraper
+# Spotify Playlist Scraper
 Scrapes my public playlist off Spotify after granting access token via Spotify Developer Console.
 
 Each song entry is populated with following records:\
